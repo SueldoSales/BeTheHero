@@ -18,3 +18,15 @@ Tecnologias utilizadas:
 * ReactJS
 * JSX
 * CSS
+
+![Login Page](https://github.com/SueldoSales/omnistack11/raw/master/screenshots/bth_login.png)
+Página de Login - Design [RocketSeat](https://rocketseat.com.br/)
+
+![Login Page](https://github.com/SueldoSales/omnistack11/raw/master/screenshots/bth_register.png)
+Registro da Instituição - Design [RocketSeat](https://rocketseat.com.br/)
+
+![Login Page](https://github.com/SueldoSales/omnistack11/raw/master/screenshots/bth_home.png)
+Tela principal - Design [RocketSeat](https://rocketseat.com.br/)
+
+![Login Page](https://github.com/SueldoSales/omnistack11/raw/master/screenshots/bth_newcad.png)
+Cadastro de casos - Design [RocketSeat](https://rocketseat.com.br/)
