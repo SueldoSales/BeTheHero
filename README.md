@@ -1,5 +1,7 @@
 ![Logo Be The Hero](https://github.com/SueldoSales/omnistack11/raw/master/frontend/src/assets/logo.svg?sanitize=true)
 
+# Be The Hero
+
 Aplicação web desenvolvida na **Semana OmniStack 11** promovida pela [RocketSeat](https://rocketseat.com.br/).
 
 **Be the Hero** é uma pequena plataforma que agrupa instituições de caridade ou ONGS que necessitam de ajuda em casos específicos. 
